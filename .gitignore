@@ -1,0 +1,23 @@
+# Raw large CSVs — excluded because they are too large for GitHub
+data/olist_customers_dataset.csv
+data/olist_geolocation_dataset.csv
+data/olist_order_items_dataset.csv
+data/olist_order_payments_dataset.csv
+data/olist_order_reviews_dataset.csv
+data/olist_orders_dataset.csv
+data/olist_products_dataset.csv
+data/olist_sellers_dataset.csv
+data/product_category_name_translation.csv
+# The cleaned master file IS uploaded — do not exclude it
+# data/olist_master.csv
+# Python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+# Test file
+test_connection.py
+# OS files
+.DS_Store
+Thumbs.db

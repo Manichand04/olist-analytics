@@ -23,11 +23,11 @@ This project answers 5 key business questions using SQL, Python, and Power BI.
 
 ## Dashboard Preview
 **Page 1: Executive Overview**
-![Executive Overview](charts/dashboard_page1.png)
+![Executive Overview](charts/Dashboard_page1.png)
 **Page 2: Delivery & Operations**
-![Delivery Analysis](charts/dashboard_page2.png)
+![Delivery Analysis](charts/Dashboard_page2.png)
 **Page 3: Seller Performance**
-![Seller Performance](charts/dashboard_page3.png)
+![Seller Performance](charts/Dashboard_page3.png)
 
 ---
 
